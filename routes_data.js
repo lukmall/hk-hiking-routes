@@ -1,6 +1,6 @@
 var hikingRoutes = [
   {
-    "name": "2015-1-1 伯公坳--昂坪",
+    "name": "鳳凰山日出🌅",
     "coords": [
       [
         113.94313888499451,
@@ -122,10 +122,13 @@ var hikingRoutes = [
         113.90261417229874,
         22.255101556483236
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "5.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2015-1-1.html"
   },
   {
-    "name": "2015-5-15 油塘--井欄樹",
+    "name": "衛奕信徑第三段：魔鬼山．五桂山",
     "coords": [
       [
         114.23758179638672,
@@ -271,10 +274,13 @@ var hikingRoutes = [
         114.2376778065286,
         22.334344549612904
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2015-5-15.html"
   },
   {
-    "name": "2015-5-27 香港仔水塘--貝璐道",
+    "name": "",
     "coords": [
       [
         114.15653529063084,
@@ -284,10 +290,13 @@ var hikingRoutes = [
         114.15653529063084,
         22.25134145336352
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2015-5-27.html"
   },
   {
-    "name": "20241229 北潭凹 短咀",
+    "name": "西貢長線：望魚角．短咀．沉船灣",
     "coords": [
       [
         114.33185695926747,
@@ -729,10 +738,13 @@ var hikingRoutes = [
         114.3318859438551,
         22.42065731114728
       ]
-    ]
+    ],
+    "difficulty": "LV5",
+    "distance": "25.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/01/2024-12-29.html"
   },
   {
-    "name": "三支香 @ 2020-04-10 095145",
+    "name": "",
     "coords": [
       [
         114.0975932,
@@ -906,10 +918,13 @@ var hikingRoutes = [
         114.09707362,
         22.34834411
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "8.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2020-4-10.html"
   },
   {
-    "name": "上窰郊遊徑 @ 2019-09-21 100700",
+    "name": "上窰郊遊徑",
     "coords": [
       [
         114.31931312,
@@ -1027,10 +1042,13 @@ var hikingRoutes = [
         114.33590694,
         22.38119048
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "4.9公里",
+    "blog_url": ""
   },
   {
-    "name": "下花山田夫仔 @ 2018-03-30 095203",
+    "name": "下花山田夫仔",
     "coords": [
       [
         114.10379728,
@@ -1352,10 +1370,13 @@ var hikingRoutes = [
         114.06786179,
         22.41355918
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "14.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/04/2018-3-30.html"
   },
   {
-    "name": "九肚山 鹿山 @ 2018-10-27 090652",
+    "name": "火炭行山：九肚山．鹿山．荔枝山",
     "coords": [
       [
         114.19861028795816,
@@ -1569,10 +1590,13 @@ var hikingRoutes = [
         114.16967203,
         22.44294254
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2018-10-27.html"
   },
   {
-    "name": "九華徑 @ 2025-12-18 100418",
+    "name": "葵青區深度遊：九華徑．葵涌公園．馬角山",
     "coords": [
       [
         114.13675833333333,
@@ -1634,10 +1658,13 @@ var hikingRoutes = [
         114.13607500000002,
         22.343609999999998
       ]
-    ]
+    ],
+    "difficulty": "NA",
+    "distance": "NA",
+    "blog_url": "https://luk-mall.blogspot.com/2025/12/2025-12-18.html"
   },
   {
-    "name": "九逕山 @ 2017-5-1 1100",
+    "name": "九逕山．大石頂．四排石山．掌牛山",
     "coords": [
       [
         113.97379405445936,
@@ -2007,10 +2034,13 @@ var hikingRoutes = [
         114.03473740692132,
         22.444337767980134
       ]
-    ]
+    ],
+    "difficulty": "LV5",
+    "distance": "19.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/07/2017-5-1.html"
   },
   {
-    "name": "九龍坑山 @ 2016-6-26",
+    "name": "九龍坑山．沙羅洞",
     "coords": [
       [
         114.16078572352757,
@@ -2248,10 +2278,13 @@ var hikingRoutes = [
         114.18024065441747,
         22.46531045827759
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "11.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2016-6-26.html"
   },
   {
-    "name": "九龍城@ 2017-3-11",
+    "name": "九龍城中山：格仔山．白鶴山．訊號山",
     "coords": [
       [
         114.18543879638672,
@@ -2441,10 +2474,13 @@ var hikingRoutes = [
         114.17286130439851,
         22.301339969198196
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "10.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/07/2017-3-11.html"
   },
   {
-    "name": "九龍東石礦場 @ 2017-1-22",
+    "name": "九龍東的石礦場：鯉魚門．茶果嶺",
     "coords": [
       [
         114.23761879638671,
@@ -2586,10 +2622,13 @@ var hikingRoutes = [
         114.23185607076795,
         22.30694111104673
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/04/2017-1-22.html"
   },
   {
-    "name": "九龍水塘至城門水塘 @ 2015-12-11",
+    "name": "九龍水塘．城門水塘",
     "coords": [
       [
         114.15828220967109,
@@ -2767,10 +2806,13 @@ var hikingRoutes = [
         114.14379879638672,
         22.38440978125
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-12-11.html"
   },
   {
-    "name": "五鼓花瓶大陰迪欣 @ 2018-10-13 094723",
+    "name": "五鼓嶺．花瓶石．大陰頂",
     "coords": [
       [
         114.04350652,
@@ -2968,10 +3010,13 @@ var hikingRoutes = [
         114.03749564,
         22.31983513
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "10.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/10/2018-10-13.html"
   },
   {
-    "name": "井欄樹--慈雲山 @ 2015-6-10",
+    "name": "井欄樹--慈雲山",
     "coords": [
       [
         114.23741813906247,
@@ -3161,10 +3206,13 @@ var hikingRoutes = [
         114.19797643217912,
         22.350570545193758
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "9.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2015-6-10.html"
   },
   {
-    "name": "交叉石 @ 2020-05-16 102337",
+    "name": "排頭村．交叉石．草山",
     "coords": [
       [
         114.1875098,
@@ -3494,10 +3542,13 @@ var hikingRoutes = [
         114.18592281,
         22.4324639
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "15公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/02/2020-5-16.html"
   },
   {
-    "name": "佇人左脊 @ 2019-04-05 120545",
+    "name": "佇人左脊",
     "coords": [
       [
         114.21649922,
@@ -3519,10 +3570,13 @@ var hikingRoutes = [
         114.2230236,
         22.34104488
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "1公里",
+    "blog_url": ""
   },
   {
-    "name": "佛堂洲@ 2022-10-02",
+    "name": "清水灣古蹟行：佛堂洲稅關遺址．佛堂洲頂",
     "coords": [
       [
         114.26939897086714,
@@ -3584,10 +3638,13 @@ var hikingRoutes = [
         114.2694587783559,
         22.281908722866106
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/10/2022-10-2.html"
   },
   {
-    "name": "倚天脊石壟仔石林 @ 2018-10-01 092920",
+    "name": "倚天脊．兔仔許願石．鹿巢石林",
     "coords": [
       [
         114.21119798,
@@ -3869,10 +3926,13 @@ var hikingRoutes = [
         114.26815138,
         22.38053032
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "17.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/10/2018-10-1.html"
   },
   {
-    "name": "假玉桂山 @ 2020-07-03 162122",
+    "name": "假玉桂山",
     "coords": [
       [
         114.14910957976424,
@@ -3922,10 +3982,13 @@ var hikingRoutes = [
         114.15622087230729,
         22.242009410561426
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "1.7公里",
+    "blog_url": ""
   },
   {
-    "name": "優悠路線 @ 2023-03-04",
+    "name": "西貢冷門路線：金山尾．北坑．鹿赤走廊",
     "coords": [
       [
         114.33222679638672,
@@ -4047,10 +4110,13 @@ var hikingRoutes = [
         114.332348008068,
         22.421588628404663
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/04/2023-3-4.html"
   },
   {
-    "name": "優悠路線@ 2023-08-19 (副本)",
+    "name": "坑口行山：白鱔角山",
     "coords": [
       [
         114.26480454383494,
@@ -4176,10 +4242,13 @@ var hikingRoutes = [
         114.2648805664727,
         22.31162273998027
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/09/2023-8-19.html"
   },
   {
-    "name": "優悠：官坑牛樟 2023-4-29",
+    "name": "馬鞍山行山：官坑脊．牛樟石澗．牛烏水塘",
     "coords": [
       [
         114.25451830388515,
@@ -4309,10 +4378,13 @@ var hikingRoutes = [
         114.22972898164858,
         22.41958620468958
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/05/2023-4-29.html"
   },
   {
-    "name": "元荃古道 @ 2016-07-26",
+    "name": "元荃古道",
     "coords": [
       [
         114.03107551962084,
@@ -4554,10 +4626,13 @@ var hikingRoutes = [
         114.10472685164555,
         22.3763882143264
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "13.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/09/2016-7-27.html"
   },
   {
-    "name": "元荃古道半走 @ 2016-12-9",
+    "name": "元荃古道半段走",
     "coords": [
       [
         114.1046419436567,
@@ -4743,10 +4818,13 @@ var hikingRoutes = [
         114.05993395747268,
         22.368065868058043
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "9.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/06/2016-12-9.html"
   },
   {
-    "name": "八仙嶺 @ 2016-1-7",
+    "name": "八仙嶺 (鶴藪--大美督)",
     "coords": [
       [
         114.17441776141968,
@@ -4932,10 +5010,13 @@ var hikingRoutes = [
         114.23303049965737,
         22.472194255765192
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "12.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2016-1-7.html"
   },
   {
-    "name": "公庵山 @ 2017-3-21",
+    "name": "菠蘿山．神鵰石．公庵山",
     "coords": [
       [
         113.99222550393951,
@@ -5113,10 +5194,13 @@ var hikingRoutes = [
         113.9971834535094,
         22.433314961491757
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/03/2017-3-22.html"
   },
   {
-    "name": "六堡 @ 2018-11-22 081202",
+    "name": "邊城之旅：麥景陶碉堡．老鼠嶺．大石磨．馬草壟",
     "coords": [
       [
         114.21926239,
@@ -5638,10 +5722,13 @@ var hikingRoutes = [
         114.09847077,
         22.52272951
       ]
-    ]
+    ],
+    "difficulty": "LV6",
+    "distance": "27.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/11/2018-11-22.html"
   },
   {
-    "name": "凌風@ 2018-06-11 115132",
+    "name": "凌風石澗．大磡森．分流頂",
     "coords": [
       [
         113.8737639,
@@ -5947,10 +6034,13 @@ var hikingRoutes = [
         113.89096206,
         22.22811334
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "16公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/06/2018-6-11.html"
   },
   {
-    "name": "刀刃海岸 @ 2018-03-03 091936",
+    "name": "芝麻灣綑邊路線：刀刃海岸",
     "coords": [
       [
         113.97656061,
@@ -6348,10 +6438,13 @@ var hikingRoutes = [
         113.97672724,
         22.24236132
       ]
-    ]
+    ],
+    "difficulty": "LV5",
+    "distance": "20.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/03/2018-3-3.html"
   },
   {
-    "name": "分流 @ 2016-8-30",
+    "name": "分流東灣．分流炮台．石圓環．分流村",
     "coords": [
       [
         113.89085179638671,
@@ -6681,10 +6774,13 @@ var hikingRoutes = [
         113.86259674156497,
         22.252776026922547
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "18.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/05/2016-8-30.html"
   },
   {
-    "name": "北天門中狗牙 @ 2017-12-23 101806",
+    "name": "鳳冠北巖：羅漢塔．天門棧道．北天門．中狗牙嶺",
     "coords": [
       [
         113.93040092,
@@ -6882,10 +6978,13 @@ var hikingRoutes = [
         113.89803938,
         22.22610374
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "12.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/12/2017-12-23.html"
   },
   {
-    "name": "北望神州 @ 2017-11-18 101032",
+    "name": "上水行山路線：華山．禾徑山．紅花寨．麻雀嶺",
     "coords": [
       [
         114.12513704,
@@ -7139,10 +7238,13 @@ var hikingRoutes = [
         114.20161552398851,
         22.530943035088445
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "15.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/11/2017-11-18.html"
   },
   {
-    "name": "北港古道 @ 2024-12-25",
+    "name": "西貢短線：北港古道．大水井古道",
     "coords": [
       [
         114.2615519869844,
@@ -7244,10 +7346,13 @@ var hikingRoutes = [
         114.27083931620265,
         22.383159456396395
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "5.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2024/12/2024-12-25.html"
   },
   {
-    "name": "南丫島 @ 2018-02-19 114249",
+    "name": "南丫島經典路線：榕樹灣．風采發電站．索罟灣",
     "coords": [
       [
         114.10989025,
@@ -7413,10 +7518,13 @@ var hikingRoutes = [
         114.13081413,
         22.20420481
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/02/2018-2-19.html"
   },
   {
-    "name": "南丫島 @ 2024-05-11",
+    "name": "南丫島快閃：山地塘．神風洞",
     "coords": [
       [
         114.13108009488843,
@@ -7522,10 +7630,13 @@ var hikingRoutes = [
         114.13121877066368,
         22.20629990536739
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "5.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2024/06/2024-5-11.html"
   },
   {
-    "name": "南朗山 @ 2017-3",
+    "name": "南朗山",
     "coords": [
       [
         114.16680070748811,
@@ -7535,10 +7646,13 @@ var hikingRoutes = [
         114.16680070748811,
         22.247756182947793
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "4.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2017-3-18.html"
   },
   {
-    "name": "南涌郊遊徑 @ 2018-12-25 100942",
+    "name": "南涌郊遊徑",
     "coords": [
       [
         114.20833737,
@@ -7660,7 +7774,10 @@ var hikingRoutes = [
         114.17821596,
         22.50980165
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/12/2018-12-25.html"
   },
   {
     "name": "南生圍",
@@ -7737,10 +7854,13 @@ var hikingRoutes = [
         114.04927167468342,
         22.44704037120418
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "4.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2016-2-8.html"
   },
   {
-    "name": "南風半島 @ 2018-02-24 090129",
+    "name": "西貢南風半島：筊杯石．爐仔石．望樓仔．棺材角",
     "coords": [
       [
         114.33236717,
@@ -8066,10 +8186,13 @@ var hikingRoutes = [
         114.32780273,
         22.45980711
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "19.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/02/2018-2-24.html"
   },
   {
-    "name": "古洞水塘 @ 2022-12-26",
+    "name": "北區行山短線：古洞水塘．文天祥公園",
     "coords": [
       [
         114.09857746737578,
@@ -8135,10 +8258,13 @@ var hikingRoutes = [
         114.09883013297609,
         22.502153800167978
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "3.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/12/2022-12-26.html"
   },
   {
-    "name": "吉澳鴨洲 @ 2023-10-23",
+    "name": "印洲塘一日遊：鴨洲．吉澳｜科學園",
     "coords": [
       [
         114.2698240012685,
@@ -8272,10 +8398,13 @@ var hikingRoutes = [
         114.29012821519602,
         22.550201103938114
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "5.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/12/2023-10-23.html"
   },
   {
-    "name": "吊手岩 @ 2016-11",
+    "name": "吊手北脊．馬鞍山．彎曲山",
     "coords": [
       [
         114.23723774269854,
@@ -8425,10 +8554,13 @@ var hikingRoutes = [
         114.2697126827781,
         22.38116879081453
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "8.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2016-11-5.html"
   },
   {
-    "name": "吊燈籠 @ 2017-10-21 94500",
+    "name": "芬箕托．吊燈籠．苗三古道",
     "coords": [
       [
         114.24299837881294,
@@ -8730,10 +8862,13 @@ var hikingRoutes = [
         114.23323579993098,
         22.47239624637563
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "16.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/10/2017-10-21.html"
   },
   {
-    "name": "咸田山 2025-1-23",
+    "name": "咸田山．地母元君廟．觀音寺．桅夾石嶺",
     "coords": [
       [
         114.23854584153321,
@@ -8863,10 +8998,13 @@ var hikingRoutes = [
         114.25691612080345,
         22.31711854611154
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "5.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/01/blog-post_23.html"
   },
   {
-    "name": "嘉龍石室 @ 2025-11-10 090024",
+    "name": "大欖瓹窿瓹罅：光緒墓穴．嘉龍石室．224米山頭",
     "coords": [
       [
         114.04269889658147,
@@ -8980,7 +9118,10 @@ var hikingRoutes = [
         114.0161383881611,
         22.362645549961048
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/11/2025-11-10.html"
   },
   {
     "name": "圓洲角",
@@ -9017,10 +9158,13 @@ var hikingRoutes = [
         114.2013801853424,
         22.384131864859352
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2017-2-17.html"
   },
   {
-    "name": "土地灣 @ 2015-7-1",
+    "name": "港島徑第七段(土地灣--大潭道)",
     "coords": [
       [
         114.23971279638671,
@@ -9150,10 +9294,13 @@ var hikingRoutes = [
         114.22121082957149,
         22.246218342285616
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-7-1.html"
   },
   {
-    "name": "地塘仔大和尚脊 @ 2026-03-13 105043",
+    "name": "地塘仔．大和尚脊．錦鼠觀天",
     "coords": [
       [
         113.94217333333333,
@@ -9379,10 +9526,13 @@ var hikingRoutes = [
         113.90300166666665,
         22.255386666666663
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "11公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/03/lantau-hiking-tei-tong-tsai-big-monk-ridge-jin-shu-guan-tian.html"
   },
   {
-    "name": "坪洲 @ 2022-04-15",
+    "name": "坪洲一日遊：大利島．釣魚公石🎣．牛皮廠．手指山",
     "coords": [
       [
         114.03769463583893,
@@ -9592,10 +9742,13 @@ var hikingRoutes = [
         114.03778076103995,
         22.284177658436516
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/04/2022-4-15.html"
   },
   {
-    "name": "塔門散步 @ 2025-12-21 110805",
+    "name": "塔門快閃：天后廟．呂字疊石．舊魚塘．粉紅教堂",
     "coords": [
       [
         114.35865779638672,
@@ -9685,10 +9838,13 @@ var hikingRoutes = [
         114.3586,
         22.470313333333333
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "4.0公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/12/2025-12-21.html"
   },
   {
-    "name": "塔門補充 2026-1-9",
+    "name": "茅平山．龍頸筋．塔門洞",
     "coords": [
       [
         114.35946833333334,
@@ -9862,10 +10018,13 @@ var hikingRoutes = [
         114.35866666666668,
         22.470373333333335
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/01/blog-post_16.html"
   },
   {
-    "name": "塘福至東涌 @ 2026-01-13 103610",
+    "name": "塘福．石仔屻．長屻山．北峰嶂．東涌炮台",
     "coords": [
       [
         113.92943833333332,
@@ -10111,10 +10270,13 @@ var hikingRoutes = [
         113.93999166666666,
         22.29024666666667
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "14.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/01/blog-post_13.html"
   },
   {
-    "name": "大上托 @ 2016-10-8",
+    "name": "砵甸乍炮台．照鏡環山．大上托",
     "coords": [
       [
         114.23743127501756,
@@ -10308,10 +10470,13 @@ var hikingRoutes = [
         114.23754398392941,
         22.334160925679843
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "10.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/11/2016-10-8.html"
   },
   {
-    "name": "大刀屻 @ 2016-7",
+    "name": "大刀屻(嘉道理農場--粉嶺",
     "coords": [
       [
         114.11713679638672,
@@ -10437,10 +10602,13 @@ var hikingRoutes = [
         114.13891307038661,
         22.491913055374575
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/12/2016-7-28.html"
   },
   {
-    "name": "大圓石澗 @ 2025-06-07 102522",
+    "name": "大圓石澗",
     "coords": [
       [
         114.12245999999999,
@@ -10526,10 +10694,13 @@ var hikingRoutes = [
         114.1085321413626,
         22.395224463622704
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "5.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/06/2025-6-7.html"
   },
   {
-    "name": "大城石澗 @ 2016",
+    "name": "大城石澗(菠蘿坳--林錦公路)",
     "coords": [
       [
         114.14379879638672,
@@ -10739,10 +10910,13 @@ var hikingRoutes = [
         114.12707119452827,
         22.44090256740026
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "9.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/06/2016-9-16.html"
   },
   {
-    "name": "大埔滘 @ 2019-01-12 100336",
+    "name": "大埔滘",
     "coords": [
       [
         114.1857006,
@@ -10992,10 +11166,13 @@ var hikingRoutes = [
         114.16359051,
         22.43218426
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.7公里",
+    "blog_url": ""
   },
   {
-    "name": "大帽山日出 @ 2015-12-31",
+    "name": "大帽山日出 (梧桐寨--新屋家) 🌄",
     "coords": [
       [
         114.12708118646728,
@@ -11229,10 +11406,13 @@ var hikingRoutes = [
         114.16352959994714,
         22.432115228175306
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "13.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-12-312016-1-1.html"
   },
   {
-    "name": "大帽山貓屋 @ 2023-02-04",
+    "name": "貓屋．響石脊．川龍響石",
     "coords": [
       [
         114.11473234651633,
@@ -11498,10 +11678,13 @@ var hikingRoutes = [
         114.11742862469332,
         22.43345087354039
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "11.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/02/2023-2-4.html"
   },
   {
-    "name": "大東山 @ 2015-7-16",
+    "name": "初探大東山(東涌--伯公坳)",
     "coords": [
       [
         113.94150125115974,
@@ -11623,10 +11806,13 @@ var hikingRoutes = [
         113.94307600805502,
         22.248251874299335
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-7-16.html"
   },
   {
-    "name": "大東山南脊@ 2025-11-25",
+    "name": "賞芒草路線：大東山南脊．跳板石．二東山．白蓮走廊",
     "coords": [
       [
         113.94262666666667,
@@ -11796,7 +11982,10 @@ var hikingRoutes = [
         113.943565,
         22.289078333333336
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/11/2025-11-25.html"
   },
   {
     "name": "大潭篤水壩",
@@ -11809,10 +11998,13 @@ var hikingRoutes = [
         114.22173036907918,
         22.24468627922021
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "0.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2016-6-11.html"
   },
   {
-    "name": "大潭道 @ 2015-12-19",
+    "name": "紫羅蘭山徑．大潭中水塘",
     "coords": [
       [
         114.19320034924422,
@@ -11978,10 +12170,13 @@ var hikingRoutes = [
         114.22142830267656,
         22.239881705255346
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-12-19.html"
   },
   {
-    "name": "大蛇頂 @ 2022-04-17",
+    "name": "糧船灣：大蛇頂．大蛇灣．企人石．擺頭墩",
     "coords": [
       [
         114.34416620841294,
@@ -12187,10 +12382,13 @@ var hikingRoutes = [
         114.32212493881144,
         22.39920242198831
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "12.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/04/2022-4-17.html"
   },
   {
-    "name": "大角山地塘@ 2018-04-21 092140",
+    "name": "騎虎追月：月老石．虎豹石．天空祭壇．陽元石",
     "coords": [
       [
         114.1313033,
@@ -12360,10 +12558,13 @@ var hikingRoutes = [
         114.13089736,
         22.20343212
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "10.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/04/2018-4-21.html"
   },
   {
-    "name": "大頭洲 @ 2023-12-25",
+    "name": "情人橋．大頭洲．石澳海角郊遊區",
     "coords": [
       [
         114.25107599456598,
@@ -12433,10 +12634,13 @@ var hikingRoutes = [
         114.25104481520748,
         22.230898201214714
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "3.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2024/01/2023-12-25.html"
   },
   {
-    "name": "天后誕 @ 2025-04-20",
+    "name": "清水灣行山：大廟天后誕．鷹咀石．長山",
     "coords": [
       [
         114.29125470818472,
@@ -12522,10 +12726,13 @@ var hikingRoutes = [
         114.28870499590742,
         22.269855105909524
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "4.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/04/2025-4-20.html"
   },
   {
-    "name": "天崖海角 @ 2016-12-5",
+    "name": "坐佛崖．刀片脊．餓死雞",
     "coords": [
       [
         114.29165379934719,
@@ -12635,10 +12842,13 @@ var hikingRoutes = [
         114.29164493311731,
         22.296107038491215
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/02/2016-12-5.html"
   },
   {
-    "name": "太和大埔 改@ 2025-12-23 100647",
+    "name": "大埔懷古：靈顯法院．太和樹屋．泰國廟．錦山．碗窰古蹟群",
     "coords": [
       [
         114.16080932830577,
@@ -12892,10 +13102,13 @@ var hikingRoutes = [
         114.16594287730796,
         22.446163690218214
       ]
-    ]
+    ],
+    "difficulty": "NA",
+    "distance": "9.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/12/2025-12-23.html"
   },
   {
-    "name": "女婆石芽 @ 2018-01-13 093904",
+    "name": "女婆山．石芽山．水牛山．黃牛山",
     "coords": [
       [
         114.21774334,
@@ -13153,10 +13366,13 @@ var hikingRoutes = [
         114.23821781503676,
         22.33441654183213
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "15.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/01/2018-1-13.html"
   },
   {
-    "name": "孟公屋路村 @ 2026-04-29",
+    "name": "孟公屋路山村探遊",
     "coords": [
       [
         114.27117994495809,
@@ -13238,10 +13454,13 @@ var hikingRoutes = [
         114.27081549030088,
         22.317045571978866
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "3.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/04/clear-water-bay-villages-hiking.html"
   },
   {
-    "name": "寶福山萬佛寺 @ 2020-03-28",
+    "name": "寶福山萬佛寺",
     "coords": [
       [
         114.1878323358623,
@@ -13311,10 +13530,13 @@ var hikingRoutes = [
         114.18765891938183,
         22.38404399935902
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "2.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2020-3-28.html"
   },
   {
-    "name": "小夏威夷 @ 2016-05-29 113023",
+    "name": "小夏威夷 (井欄樹--將軍澳村)",
     "coords": [
       [
         114.23769814540483,
@@ -13356,10 +13578,13 @@ var hikingRoutes = [
         114.25135923634704,
         22.326357759291138
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "2.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2016-5-29.html"
   },
   {
-    "name": "小馬坑 @ 2018-05-12 103007",
+    "name": "太古坊坑．寶馬山．小馬坑．紅香爐峰",
     "coords": [
       [
         114.20889318,
@@ -13521,10 +13746,13 @@ var hikingRoutes = [
         114.20060761,
         22.29009485
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2018-5-12.html"
   },
   {
-    "name": "尖山之最 @ 2015-12-24",
+    "name": "蚺蛇尖 (北潭凹--西灣亭)",
     "coords": [
       [
         114.33182570092589,
@@ -13798,10 +14026,13 @@ var hikingRoutes = [
         114.3600808385333,
         22.394934696881105
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "15.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-12-24.html"
   },
   {
-    "name": "尖風山 @ 2017-3-25",
+    "name": "南邊圍．尖風山．茶寮坳",
     "coords": [
       [
         114.25716779638672,
@@ -14059,10 +14290,13 @@ var hikingRoutes = [
         114.22236962803137,
         22.33008536627959
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "13.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/03/2017-3-25.html"
   },
   {
-    "name": "尖風葵坳蠔涌 @ 2026-5-6",
+    "name": "尖風山．葵坳山．121號機槍堡",
     "coords": [
       [
         114.24646499999999,
@@ -14160,10 +14394,13 @@ var hikingRoutes = [
         114.25099166666665,
         22.354966666666662
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "4.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/05/hebe-hill-lower-hebe-hill-pb121-ho-chung-abandoned-atv.html"
   },
   {
-    "name": "屏南公主 @ 2017-7-27 1000",
+    "name": "屏南石澗．龜頭嶺．公主山",
     "coords": [
       [
         114.21564813501153,
@@ -14317,10 +14554,13 @@ var hikingRoutes = [
         114.17620658078263,
         22.519599889263677
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "8.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2017/07/2017-7-27.html"
   },
   {
-    "name": "屯門徑九逕山 @ 2022-04-05",
+    "name": "屯門短線行山：彩虹欄．若夢園．九逕山",
     "coords": [
       [
         113.97789179638671,
@@ -14330,10 +14570,13 @@ var hikingRoutes = [
         113.97789179638671,
         22.39512578125
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/04/2022-4-5.html"
   },
   {
-    "name": "屯門至黃金海岸 @ 2016-7-30",
+    "name": "屯門--黃金海岸",
     "coords": [
       [
         113.97365861242201,
@@ -14459,10 +14702,13 @@ var hikingRoutes = [
         113.99074299119263,
         22.37375948773139
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/02/2016-7-30.html"
   },
   {
-    "name": "山東艦 @ 2025-07-07 102227",
+    "name": "青衣充軍：山東艦．五層樓頂．三支香．細山",
     "coords": [
       [
         114.0953428288069,
@@ -14564,10 +14810,13 @@ var hikingRoutes = [
         114.10299361400087,
         22.348899460439288
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "4.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/07/2025-7-7.html"
   },
   {
-    "name": "山頂 @ 2016-7-1",
+    "name": "薄扶林水塘--山頂",
     "coords": [
       [
         114.1353225989743,
@@ -14685,10 +14934,13 @@ var hikingRoutes = [
         114.14975254960743,
         22.27007798501672
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "6.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/06/2016-7-2.html"
   },
   {
-    "name": "峰箱徑@ 2026-05-04 085840",
+    "name": "大窩坪．1號九龍水塘界石．電塔脊．新九龍界石．蜂箱徑",
     "coords": [
       [
         114.17309500000002,
@@ -14842,10 +15094,13 @@ var hikingRoutes = [
         114.18567145134321,
         22.344070735029778
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "7.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2026/05/lung-cheung-road-hike-beacon-hill-beekeeping-trail.html"
   },
   {
-    "name": "嶼東行 @ 2017-3-20 1015",
+    "name": "愉景灣行山：老虎頭．大輋峒．大山",
     "coords": [
       [
         114.01357751396388,
@@ -15063,10 +15318,13 @@ var hikingRoutes = [
         114.03059979638672,
         22.33329678125
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "9.5公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2017-3-20.html"
   },
   {
-    "name": "布袋澳 @ 2015-61",
+    "name": "釣魚翁郊遊徑",
     "coords": [
       [
         114.28204244482002,
@@ -15196,10 +15454,13 @@ var hikingRoutes = [
         114.29595088179767,
         22.275353289820476
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/04/2015-6-1.html"
   },
   {
-    "name": "平山 沈雲山 @ 2016-9-30",
+    "name": "",
     "coords": [
       [
         114.21891567491107,
@@ -15349,7 +15610,10 @@ var hikingRoutes = [
         114.2142644664104,
         22.32351951007077
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/10/2016-9-30.html"
   },
   {
     "name": "平山",
@@ -15398,10 +15662,13 @@ var hikingRoutes = [
         114.21880075963414,
         22.330731034046543
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "1.5公里",
+    "blog_url": ""
   },
   {
-    "name": "年初一豬黃嶺丫髻山歸山 @ 2018-02-16 142806",
+    "name": "元朗邊境行：豬黃嶺．丫髻山．尖鼻咀．龜山",
     "coords": [
       [
         114.02477083,
@@ -15539,10 +15806,13 @@ var hikingRoutes = [
         114.00828981,
         22.48637067
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/02/2018-2-16.html"
   },
   {
-    "name": "年初二 @ 2018-02-17 083611",
+    "name": "野豬徑．潭崗飛瀑．老虎山．蓮花井山．孖崗山南峰",
     "coords": [
       [
         114.22789025,
@@ -15764,10 +16034,13 @@ var hikingRoutes = [
         114.20522071,
         22.22511876
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/02/2018-2-17.html"
   },
   {
-    "name": "彌散石澗 @ 2016-10-10",
+    "name": "",
     "coords": [
       [
         113.94091258661733,
@@ -15957,10 +16230,13 @@ var hikingRoutes = [
         113.90421848034416,
         22.255381467499134
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "9.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/11/2016-10-10.html"
   },
   {
-    "name": "愉景灣水塘 @ 2023-01-24",
+    "name": "愉景灣行山：愉景灣水塘💧．老虎頭🐯",
     "coords": [
       [
         114.01791988665539,
@@ -16122,10 +16398,13 @@ var hikingRoutes = [
         114.01780708606927,
         22.29695620824253
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/01/2023-1-24.html"
   },
   {
-    "name": "慈愛博康",
+    "name": "慈沙古道(慈愛苑--博康邨)",
     "coords": [
       [
         114.19992179638672,
@@ -16199,10 +16478,13 @@ var hikingRoutes = [
         114.19482757056144,
         22.375757710700768
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "3.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/05/2016-8-31.html"
   },
   {
-    "name": "慈觀古道改 @ 2019-04-20 095132",
+    "name": "蝌蚪坪．貓仔石．雞胸山",
     "coords": [
       [
         114.195482987657,
@@ -16360,10 +16642,13 @@ var hikingRoutes = [
         114.201675,
         22.35064438
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "7.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2019/04/2019-4-20.html"
   },
   {
-    "name": "我的路徑 @ 2019-07-21 212639",
+    "name": "鹿赤走廊",
     "coords": [
       [
         114.32580279638672,
@@ -16477,10 +16762,13 @@ var hikingRoutes = [
         114.33236743575439,
         22.421716384811294
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "8.4公里",
+    "blog_url": ""
   },
   {
-    "name": "我的路徑 @ 2022-05-06 191750",
+    "name": "西貢麻南笏半島：麻籃笏村．白馬咀．麻籃笏頂",
     "coords": [
       [
         114.26226779638672,
@@ -16490,10 +16778,13 @@ var hikingRoutes = [
         114.26226779638672,
         22.37546178125
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "9.0公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/10/2022-5-7.html"
   },
   {
-    "name": "我的路徑 @ 2022-08-22 105234",
+    "name": "南大嶼行澗路線：青龍石澗(中下段)🐲．雙獅觀瀑．南大嶼大石台",
     "coords": [
       [
         113.96675162388362,
@@ -16595,10 +16886,13 @@ var hikingRoutes = [
         113.94325101446663,
         22.24815833517612
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "4.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/10/2022-8-23.html"
   },
   {
-    "name": "我的軌跡 @ 2019-01-20 112620",
+    "name": "華人永遠墳場",
     "coords": [
       [
         114.26021821,
@@ -16708,10 +17002,13 @@ var hikingRoutes = [
         114.23784228,
         22.29652302
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "5.2公里",
+    "blog_url": ""
   },
   {
-    "name": "手屻北龍 @ 2017-8-5 1020",
+    "name": "北龍石澗．薄刀屻",
     "coords": [
       [
         113.94207879638672,
@@ -16841,10 +17138,13 @@ var hikingRoutes = [
         113.94206313883836,
         22.289054415232485
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "9.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2017-8-5.html"
   },
   {
-    "name": "摩星西高 @ 2018-02-03 111822",
+    "name": "摩星嶺．松林廢堡．西高山",
     "coords": [
       [
         114.12011139,
@@ -17042,10 +17342,13 @@ var hikingRoutes = [
         114.1495548,
         22.27058542
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "9.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2023/03/2018-2-3.html"
   },
   {
-    "name": "擔柴山雞麻峒深涌 @ 2018-03-17 090234",
+    "name": "擔柴山．荔枝莊．雞麻峒",
     "coords": [
       [
         114.32715241,
@@ -17211,10 +17514,13 @@ var hikingRoutes = [
         114.28134704,
         22.44075036
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/03/2018-3-17.html"
   },
   {
-    "name": "救援徑 @ 2019-12-07 115900 (副本)",
+    "name": "纜車路線：昂坪救援徑．木魚山",
     "coords": [
       [
         113.92342569,
@@ -17256,10 +17562,13 @@ var hikingRoutes = [
         113.90182616,
         22.25717507
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.8公里",
+    "blog_url": "https://luk-mall.blogspot.com/2019/12/2019-12-7.html"
   },
   {
-    "name": "新田 @ 2025-12-07 103135",
+    "name": "新田文化遊：仁壽圍．大夫第．麟峯文公祠．東山古廟",
     "coords": [
       [
         114.08196333333332,
@@ -17405,10 +17714,13 @@ var hikingRoutes = [
         114.07777499999999,
         22.49855
       ]
-    ]
+    ],
+    "difficulty": "NA",
+    "distance": "8.4公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/12/2025-12-7.html"
   },
   {
-    "name": "日落脊 @ 2024-12-22",
+    "name": "飛鵝山：日落脊．鵝肚棧道",
     "coords": [
       [
         114.22113479638672,
@@ -17478,10 +17790,13 @@ var hikingRoutes = [
         114.21819224454615,
         22.333841328875284
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "3.3公里",
+    "blog_url": "https://luk-mall.blogspot.com/2024/12/2024-12-22.html"
   },
   {
-    "name": "暴雨後 @ 2025-08-07",
+    "name": "寶坑深度遊：聖雲仙天主堂．水邊村．蓮苑台瀑布．大上托",
     "coords": [
       [
         114.26782654994604,
@@ -17727,10 +18042,13 @@ var hikingRoutes = [
         114.23739057990821,
         22.334179157470086
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "11.1公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/08/2025-8-7.html"
   },
   {
-    "name": "最後一堡 @ 2018-12-24 095852",
+    "name": "白鶴洲碉堡．鐵坑山．蛇嶺．任食豆花😋",
     "coords": [
       [
         114.06135363,
@@ -17984,10 +18302,13 @@ var hikingRoutes = [
         114.12416568,
         22.50311371
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "15.7公里",
+    "blog_url": "https://luk-mall.blogspot.com/2018/12/2018-12-24.html"
   },
   {
-    "name": "杯靈雙渡加強版 @ 2016-12",
+    "name": "考牌路線：杯靈雙渡",
     "coords": [
       [
         113.95486319731272,
@@ -18269,10 +18590,13 @@ var hikingRoutes = [
         113.9899382345608,
         22.45114036597483
       ]
-    ]
+    ],
+    "difficulty": "LV4",
+    "distance": "14.0公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/01/2016-12-3.html"
   },
   {
-    "name": "東平洲 @2022-1-1",
+    "name": "東平洲一日遊：天后宮．更樓石🧱．龍落水．斬頸洲",
     "coords": [
       [
         114.43309631981906,
@@ -18454,10 +18778,13 @@ var hikingRoutes = [
         114.43272410868313,
         22.544281084322996
       ]
-    ]
+    ],
+    "difficulty": "LV1",
+    "distance": "8.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2022/09/2022-1-1.html"
   },
   {
-    "name": "東梅古道 @ 2021-12-30 081105",
+    "name": "東梅古道：白芒．銀礦洞．銀礦灣瀑布",
     "coords": [
       [
         113.9506046595234,
@@ -18647,10 +18974,13 @@ var hikingRoutes = [
         114.00182590248002,
         22.265029901990783
       ]
-    ]
+    ],
+    "difficulty": "LV2",
+    "distance": "9.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/12/2021-12-30.html"
   },
   {
-    "name": "東澳古道 @ 2016-9-25",
+    "name": "東澳古道：東涌小炮台．馬灣涌．嶼北界碑",
     "coords": [
       [
         113.94082379638672,
@@ -18896,10 +19226,13 @@ var hikingRoutes = [
         113.86219365051575,
         22.252892151502436
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "14.6公里",
+    "blog_url": "https://luk-mall.blogspot.com/2021/09/2016-9-25.html"
   },
   {
-    "name": "東熹苑至鰂魚涌 @ 2015-12-16",
+    "name": "康柏郊遊徑．金督馳馬徑．渣甸山",
     "coords": [
       [
         114.21792274793212,
@@ -19205,7 +19538,10 @@ var hikingRoutes = [
         114.19319244124023,
         22.25742338926335
       ]
-    ]
+    ],
+    "difficulty": "LV3",
+    "distance": "12.9公里",
+    "blog_url": "https://luk-mall.blogspot.com/2020/05/2015-12-16.html"
   },
   {
     "name": "東狗牙@ 2025-12-29 110712",
@@ -19382,7 +19718,10 @@ var hikingRoutes = [
         113.94309166666666,
         22.248188333333328
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "東龍島 @ 2018-06-09 092244",
@@ -19591,7 +19930,10 @@ var hikingRoutes = [
         114.28943481,
         22.2546843
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "東龍石澗 @ 2022-07-23",
@@ -19724,7 +20066,10 @@ var hikingRoutes = [
         113.94092096026687,
         22.288240344263453
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "東龍群山及大蚊山 @ 2018-01-27 100832",
@@ -19993,7 +20338,10 @@ var hikingRoutes = [
         114.332015,
         22.42078177
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "柏架東脊 @ 2018-04-01 092022",
@@ -20302,7 +20650,10 @@ var hikingRoutes = [
         114.23604002,
         22.24334774
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "柏柴石澗 @ 2022-06-25",
@@ -20391,7 +20742,10 @@ var hikingRoutes = [
         114.23342715292263,
         22.26784278946096
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "柏鰂石澗 @ 2023-05-20",
@@ -20516,7 +20870,10 @@ var hikingRoutes = [
         114.23965579638671,
         22.26336278125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "桃坑峒 @ 2021-11-27 183407(1)",
@@ -20717,7 +21074,10 @@ var hikingRoutes = [
         114.05922777501753,
         22.367177024863107
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "桃坑峒 @ 2021-11-27 183407",
@@ -20918,7 +21278,10 @@ var hikingRoutes = [
         114.05922777501753,
         22.367177024863107
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "梅窩至貝澳 @ 2015-5-25",
@@ -21111,7 +21474,10 @@ var hikingRoutes = [
         113.97798089331067,
         22.24348779862911
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "橋咀島 @ 2023-12-03",
@@ -21284,7 +21650,10 @@ var hikingRoutes = [
         114.28746186090243,
         22.367567016509085
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "橫七古道 @ 2016-7-18(1)",
@@ -21533,7 +21902,10 @@ var hikingRoutes = [
         114.21552879249931,
         22.52396837644635
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "橫七古道 @ 2016-7-18",
@@ -21762,7 +22134,10 @@ var hikingRoutes = [
         114.20947290401956,
         22.524197074937838
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "橫涌直闖 @ 2017-7-29 1130",
@@ -21775,7 +22150,10 @@ var hikingRoutes = [
         114.24299979638671,
         22.50763478125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "水口至石壁 @ 2016-7-31",
@@ -21912,7 +22290,10 @@ var hikingRoutes = [
         113.89782342572663,
         22.22601904652588
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "水婆婆山小欖山 @ 2026-01-07 102317 (副本)",
@@ -22165,7 +22546,10 @@ var hikingRoutes = [
         114.01627500000001,
         22.362151666666666
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "水泉澳 @ 2017-4-8 930",
@@ -22450,7 +22834,10 @@ var hikingRoutes = [
         114.20828279638671,
         22.33460978125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "永別亭 @ 2016-8-26",
@@ -22551,7 +22938,10 @@ var hikingRoutes = [
         114.24481217895942,
         22.320137499846517
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "沙灣 @ 2024-01-27",
@@ -22680,7 +23070,10 @@ var hikingRoutes = [
         114.1283425640672,
         22.28150869059723
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "河背",
@@ -22925,7 +23318,10 @@ var hikingRoutes = [
         114.11745310686081,
         22.373688422149623
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "河背2",
@@ -23206,7 +23602,10 @@ var hikingRoutes = [
         114.11744279638671,
         22.37366878125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "油塘古蹟線 @ 2016-9-21(1)",
@@ -23391,7 +23790,10 @@ var hikingRoutes = [
         114.23758179638672,
         22.29699978125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "油塘古蹟線 @ 2016-9-21",
@@ -23576,7 +23978,10 @@ var hikingRoutes = [
         114.24089937384299,
         22.295379280989412
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "洪水坑 @ 2016-9-3",
@@ -23773,7 +24178,10 @@ var hikingRoutes = [
         113.99242407641239,
         22.429835967541656
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "洪水坑",
@@ -23994,7 +24402,10 @@ var hikingRoutes = [
         113.99235774247381,
         22.429959661543265
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "淋坑山 @ 2020-06-07 130152",
@@ -24027,7 +24438,10 @@ var hikingRoutes = [
         113.99489700632438,
         22.471858984061548
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "深涌石芽頭蛇石 @ 2026-01-24",
@@ -24248,7 +24662,10 @@ var hikingRoutes = [
         114.327785,
         22.459828333333334
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "港島八峰連走 @ 2017-2-9(1)",
@@ -24641,7 +25058,10 @@ var hikingRoutes = [
         114.14610879638671,
         22.27619078125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "港島八峰連走 @ 2017-2-9",
@@ -25034,7 +25454,10 @@ var hikingRoutes = [
         114.14610879638671,
         22.27619078125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "港西懷古 @ 2026-01-11 093347",
@@ -25247,7 +25670,10 @@ var hikingRoutes = [
         114.13037000000001,
         22.261535000000002
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "澳背村 天后廟 @ 2025-12-22 095410",
@@ -25376,7 +25802,10 @@ var hikingRoutes = [
         114.26517179638672,
         22.31496278125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "瀑布灣@2023-10-15",
@@ -25449,7 +25878,10 @@ var hikingRoutes = [
         114.13010087639584,
         22.26203007608884
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "灣畔徑小山 @ 2017-11-26",
@@ -25462,7 +25894,10 @@ var hikingRoutes = [
         114.26403380423982,
         22.312825357922005
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "牛坳山 @ 2019-02-06 093435",
@@ -25703,7 +26138,10 @@ var hikingRoutes = [
         114.2120629,
         22.37651523
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "犀牛石 @ 2021-05-15 112322",
@@ -25756,7 +26194,10 @@ var hikingRoutes = [
         114.21443310130016,
         22.205361945685993
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "猛鬼橋 @ 2021-09-22 131938",
@@ -25865,7 +26306,10 @@ var hikingRoutes = [
         114.22393832292958,
         22.27678704892494
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "猴塘溪 @ 2019-06-07 092448",
@@ -26114,7 +26558,10 @@ var hikingRoutes = [
         114.30971669,
         22.42961668
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅子山 @ 2015-6-5(1)",
@@ -26311,7 +26758,10 @@ var hikingRoutes = [
         114.15356641050903,
         22.349282640982953
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅子山 @ 2015-6-5",
@@ -26504,7 +26954,10 @@ var hikingRoutes = [
         114.15356641050903,
         22.349282640982953
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅子山 @ 2020-01-18 093538",
@@ -26597,7 +27050,10 @@ var hikingRoutes = [
         114.18492086,
         22.34458335
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅子頭山木魚山 @ 2018-05-05 105518(1)",
@@ -26710,7 +27166,10 @@ var hikingRoutes = [
         113.94310355,
         22.24817392
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅子頭山木魚山 @ 2018-05-05 105518",
@@ -26823,7 +27282,10 @@ var hikingRoutes = [
         113.94310355,
         22.24817392
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅尾脊 @ 2017-4-2 1200",
@@ -27028,7 +27490,10 @@ var hikingRoutes = [
         114.18571491372543,
         22.374572991531938
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅肚望夫 @ 2016-12-27(1)",
@@ -27193,7 +27658,10 @@ var hikingRoutes = [
         114.1862200478944,
         22.370826029427146
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅肚望夫 @ 2016-12-27(2)",
@@ -27338,7 +27806,10 @@ var hikingRoutes = [
         114.18915061500331,
         22.370674599915628
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅肚望夫 @ 2016-12-27(3)",
@@ -27483,7 +27954,10 @@ var hikingRoutes = [
         114.18915061500331,
         22.370674599915628
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅肚望夫 @ 2016-12-27",
@@ -27628,7 +28102,10 @@ var hikingRoutes = [
         114.18915061500331,
         22.370674599915628
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獅象虎 @ 2017-5-20",
@@ -27769,7 +28246,10 @@ var hikingRoutes = [
         113.86219583829252,
         22.25289180949047
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "獨木舟旅程 @ 2026-01-05 095221",
@@ -27938,7 +28418,10 @@ var hikingRoutes = [
         114.33556166666668,
         22.377065
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "玉桂山",
@@ -27987,7 +28470,10 @@ var hikingRoutes = [
         114.15624049684601,
         22.24069360681896
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "玉桂山綑邊 @ 2022-06-25",
@@ -28060,7 +28546,10 @@ var hikingRoutes = [
         114.15325161960764,
         22.237357216081627
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "班納田灣奇力 @ 2018-04-14 093200",
@@ -28329,7 +28818,10 @@ var hikingRoutes = [
         114.15190141,
         22.26708369
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "環湖 @ 2015-12-18",
@@ -28586,7 +29078,10 @@ var hikingRoutes = [
         114.24296981709976,
         22.50771254002873
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "環湖@ 2024-02-03",
@@ -28883,7 +29378,10 @@ var hikingRoutes = [
         114.23290230957564,
         22.472077085941006
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "環湖出嘴 @ 2016-12-5 830",
@@ -29296,7 +29794,10 @@ var hikingRoutes = [
         114.23326624708876,
         22.472280654703365
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "田下山 @ 2018-05-06 123315",
@@ -29381,7 +29882,10 @@ var hikingRoutes = [
         114.29119443,
         22.27191836
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "白崖 @ 2024-8-3",
@@ -29558,7 +30062,10 @@ var hikingRoutes = [
         114.28924779638672,
         22.25495678125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "白水碗 @ 2022-05-21",
@@ -29667,7 +30174,10 @@ var hikingRoutes = [
         114.25333984338945,
         22.35196223097332
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "白鱔角山 @ 2017-2-11",
@@ -29692,7 +30202,10 @@ var hikingRoutes = [
         114.27061627201772,
         22.30894815042528
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "直搗黃龍 @ 2017-5-12 1100",
@@ -29901,7 +30414,10 @@ var hikingRoutes = [
         114.0016030072789,
         22.264865198190318
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "睇魚岩頂 @ 2017-11-4",
@@ -30154,7 +30670,10 @@ var hikingRoutes = [
         114.3600421452662,
         22.394967047007967
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "石板潭 @ 2016-7-22(1)",
@@ -30303,7 +30822,10 @@ var hikingRoutes = [
         114.21558833145197,
         22.523851499040706
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "石板潭 @ 2016-7-22",
@@ -30436,7 +30958,10 @@ var hikingRoutes = [
         114.21558833145197,
         22.523851499040706
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "破邊洲 @ 2017-2-10",
@@ -30697,7 +31222,10 @@ var hikingRoutes = [
         114.32214092653406,
         22.399241254593353
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "社山",
@@ -30854,7 +31382,10 @@ var hikingRoutes = [
         114.13112447809948,
         22.444723576472658
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "禾央石林 @ 2017-1(1)",
@@ -31027,7 +31558,10 @@ var hikingRoutes = [
         114.10843313378216,
         22.395129420070376
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "禾央石林 @ 2017-1",
@@ -31200,7 +31734,10 @@ var hikingRoutes = [
         114.10843313378216,
         22.395129420070376
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "秋楓石澗",
@@ -31269,7 +31806,10 @@ var hikingRoutes = [
         114.32515502690846,
         22.405267294721057
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "秦石 @ 2021-12-24",
@@ -31342,7 +31882,10 @@ var hikingRoutes = [
         114.18339578079787,
         22.370262117920603
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "窩仔山及嘉頓山 @ 2016-8-28",
@@ -31427,7 +31970,10 @@ var hikingRoutes = [
         114.16875879638671,
         22.3316455636407
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "竹角張公 @ 2026-05-25 094323",
@@ -31544,7 +32090,10 @@ var hikingRoutes = [
         114.25326500000001,
         22.351913333333332
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "筆架山 @ 2023-09-23",
@@ -31725,7 +32274,10 @@ var hikingRoutes = [
         114.18989302555944,
         22.374168842005027
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "紅水山 黃龍嶺 @ 2025-12-16 101149",
@@ -31966,7 +32518,10 @@ var hikingRoutes = [
         114.00240491131183,
         22.26510166312261
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "紅葉千島湖@ 2021-12-04 092900",
@@ -32187,7 +32742,10 @@ var hikingRoutes = [
         114.02430866742786,
         22.41640870959712
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "紫羅蘭山 @ 2015-12-23",
@@ -32280,7 +32838,10 @@ var hikingRoutes = [
         114.20882962531405,
         22.223637245627906
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "羌山至大澳 @ 2016-7-17",
@@ -32485,7 +33046,10 @@ var hikingRoutes = [
         113.8630596893997,
         22.25266258472376
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "老虎坑@ 2021-08-20 191135",
@@ -32542,7 +33106,10 @@ var hikingRoutes = [
         114.20887110107405,
         22.2236590503465
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "老虎騎石屋山過雙峒 @ 2018-02-10 100758",
@@ -32811,7 +33378,10 @@ var hikingRoutes = [
         114.28109061859809,
         22.4041427852888
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "自殺崖 @ 2016-10-27(1)",
@@ -32976,7 +33546,10 @@ var hikingRoutes = [
         114.20826222314668,
         22.334817473013224
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "自殺崖 @ 2016-10-27",
@@ -33129,7 +33702,10 @@ var hikingRoutes = [
         114.21432779638671,
         22.33563778125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "舂坎角 @ 2022-03-13",
@@ -33222,7 +33798,10 @@ var hikingRoutes = [
         114.205053873648,
         22.21607320914428
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "良田坳 @ 2015-6-19",
@@ -33347,7 +33926,10 @@ var hikingRoutes = [
         113.9431227638581,
         22.42694412472085
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "苗田灣機槍堡 @ 2026-05-22 091844",
@@ -33452,7 +34034,10 @@ var hikingRoutes = [
         114.25325333333333,
         22.351923333333335
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "茶壺咀脊 @ 2023-12-23",
@@ -33589,7 +34174,10 @@ var hikingRoutes = [
         113.90259718156157,
         22.255592998667726
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "荔枝窩--鹿頸",
@@ -33830,7 +34418,10 @@ var hikingRoutes = [
         114.21706779638671,
         22.52448578125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "荔枝窩周邊@ 2024-9-18",
@@ -33931,7 +34522,10 @@ var hikingRoutes = [
         114.25982607374029,
         22.52672751908386
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "菠蘿輋--水浪窩 @ 2016-6-25 112857",
@@ -34160,7 +34754,10 @@ var hikingRoutes = [
         114.27928775214473,
         22.404857524610694
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "萬丈布 @ 2017-5-17 1130",
@@ -34301,7 +34898,10 @@ var hikingRoutes = [
         113.86234631909936,
         22.25291730994745
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "萬宜群山線2 @ 2017-12-25 094752",
@@ -34702,7 +35302,10 @@ var hikingRoutes = [
         114.32180302,
         22.39898556
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "萬宜群山線2改 @ 2017-12-25 094752",
@@ -35031,7 +35634,10 @@ var hikingRoutes = [
         114.32180302,
         22.39898556
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蒲台島 @ 2020-05-01 085857",
@@ -35220,7 +35826,10 @@ var hikingRoutes = [
         114.25348918,
         22.16338916
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蓮花宮 紅香爐峰 @ 2026-02-13 123352",
@@ -35413,7 +36022,10 @@ var hikingRoutes = [
         114.19369666666668,
         22.28832333333333
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蓮花山 @ 2016-11",
@@ -35586,7 +36198,10 @@ var hikingRoutes = [
         113.94323673914012,
         22.248130057275215
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蓮花石澗 @ 2017-8-26 113000",
@@ -35779,7 +36394,10 @@ var hikingRoutes = [
         114.05882614371387,
         22.366745100885176
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蓮麻坑 @ 2016-10-29",
@@ -36000,7 +36618,10 @@ var hikingRoutes = [
         114.1541697917096,
         22.549198272031308
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "薄扶林 @ 2025-11-18",
@@ -36157,7 +36778,10 @@ var hikingRoutes = [
         114.12535482977289,
         22.272862889943557
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "藏龍石澗 @ 2023-07-08",
@@ -36298,7 +36922,10 @@ var hikingRoutes = [
         113.94113237939376,
         22.2887571762491
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "藤王 @ 2025-03-02(1)",
@@ -36447,7 +37074,10 @@ var hikingRoutes = [
         114.26007949116791,
         22.36779362352479
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "藤王 @ 2025-03-02",
@@ -36580,7 +37210,10 @@ var hikingRoutes = [
         114.26007949116791,
         22.36779362352479
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "虎地坑 @ 2016-8-5",
@@ -36681,7 +37314,10 @@ var hikingRoutes = [
         113.98260079638672,
         22.41269378125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "虎地坑2 @ 2016-8-5",
@@ -36786,7 +37422,10 @@ var hikingRoutes = [
         113.97937974201328,
         22.412317394995092
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "虎爪屻木棉山 @ 2026-03-09 095109",
@@ -36995,7 +37634,10 @@ var hikingRoutes = [
         114.27322166666666,
         22.388626666666664
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蚺蛇北脊 @ 2018-10-20 095506",
@@ -37308,7 +37950,10 @@ var hikingRoutes = [
         114.35355953,
         22.42481846
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蛇灣山 小破邊 @ 2025-01- 30",
@@ -37489,7 +38134,10 @@ var hikingRoutes = [
         114.37136131641735,
         22.361825667498625
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "蝦山篤淨灘 @ 2025-11-22",
@@ -37522,7 +38170,10 @@ var hikingRoutes = [
         114.2868624019192,
         22.28682682957779
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西沙 @ 2025-05-5",
@@ -37671,7 +38322,10 @@ var hikingRoutes = [
         114.2436885727962,
         22.429816163258426
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西灣山 @ 2016-8-8",
@@ -37988,7 +38642,10 @@ var hikingRoutes = [
         114.31928764960145,
         22.397153520092797
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西狗牙嶺 @ 2016-8-29",
@@ -38157,7 +38814,10 @@ var hikingRoutes = [
         113.89783690248102,
         22.22601264173173
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西貢東群山1 @ 2017-12-02 094804",
@@ -38386,7 +39046,10 @@ var hikingRoutes = [
         114.3192205,
         22.39727205
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西貢海藝術節 @ 2024-01-13",
@@ -38619,7 +39282,10 @@ var hikingRoutes = [
         114.35386879638672,
         22.35012878125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西貢西東北部 @ 2018-02-24 090129",
@@ -38948,7 +39614,10 @@ var hikingRoutes = [
         114.32780273,
         22.45980711
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西馬肚坑 @ 2018-01-01 090925",
@@ -39137,7 +39806,10 @@ var hikingRoutes = [
         114.24264509,
         22.4014015
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "西龍脊 @ 2025-11-13 102744",
@@ -39330,7 +40002,10 @@ var hikingRoutes = [
         113.94101500000001,
         22.28917333333333
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "親子大帽山 @ 2018-09-25 090034",
@@ -39559,7 +40234,10 @@ var hikingRoutes = [
         114.11834818,
         22.41155531
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "觀景山 @ 2026-03-23 112419",
@@ -39868,7 +40546,10 @@ var hikingRoutes = [
         113.94083833333335,
         22.288303333333335
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "觀音大帽 @ 2018-03-10 104102",
@@ -40289,7 +40970,10 @@ var hikingRoutes = [
         114.12261232,
         22.38289511
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "調景嶺 @ 2020-03-14 144702",
@@ -40406,7 +41090,10 @@ var hikingRoutes = [
         114.2554697,
         22.31334498
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "豆美味 @ 2019-11-02 093728",
@@ -40587,7 +41274,10 @@ var hikingRoutes = [
         114.11035954,
         22.51085651
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "貓頭鷹石@ 2022-03-12",
@@ -40640,7 +41330,10 @@ var hikingRoutes = [
         114.24122934202465,
         22.295176637255782
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "赤柱群山遊 @ 2018-02-17 083611",
@@ -40865,7 +41558,10 @@ var hikingRoutes = [
         114.20522071,
         22.22511876
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "逆走東澳 @ 2024-10-27",
@@ -41150,7 +41846,10 @@ var hikingRoutes = [
         113.94092544531017,
         22.287503826852774
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "邊境行 @ 2026-02-02 093954",
@@ -41347,7 +42046,10 @@ var hikingRoutes = [
         114.15543833333335,
         22.55300833333333
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "針草 @ 2016-7-3",
@@ -41552,7 +42254,10 @@ var hikingRoutes = [
         114.14375662463513,
         22.38459041089733
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "釣魚翁 @ 2016-10-9(1)",
@@ -41657,7 +42362,10 @@ var hikingRoutes = [
         114.28931441649144,
         22.2981173352642
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "釣魚翁 @ 2016-10-9",
@@ -41746,7 +42454,10 @@ var hikingRoutes = [
         114.28931441649144,
         22.2981173352642
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "釣魚翁拍片 @ 2026-05-8",
@@ -41819,7 +42530,10 @@ var hikingRoutes = [
         114.28943372338185,
         22.29821946055138
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "錦田 @ 2025-12-14 102635",
@@ -42084,7 +42798,10 @@ var hikingRoutes = [
         114.06387666666666,
         22.435051666666663
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鎖羅盤 @ 2016-8-27",
@@ -42325,7 +43042,10 @@ var hikingRoutes = [
         114.21546727188378,
         22.523901648546296
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鐵矢山 @ 2024-10-1",
@@ -42386,7 +43106,10 @@ var hikingRoutes = [
         114.27640213497565,
         22.40556404616168
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "長山 @ 2024-7-7",
@@ -42491,7 +43214,10 @@ var hikingRoutes = [
         114.31920943530125,
         22.396774137944135
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "長洲 @ 2026-01-19 111056",
@@ -42712,7 +43438,10 @@ var hikingRoutes = [
         114.02875333333334,
         22.208513333333332
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "長洲南建道神學院 @ 2026-02-07 095407",
@@ -43089,7 +43818,10 @@ var hikingRoutes = [
         114.02879,
         22.208498333333335
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "長索島 @ 2022-11-19",
@@ -43182,7 +43914,10 @@ var hikingRoutes = [
         114.02759406089912,
         22.332630609824477
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "閒遊西貢西 @ 2017-4-1",
@@ -43371,7 +44106,10 @@ var hikingRoutes = [
         114.31932392981408,
         22.39735227089718
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雁谷黃金壁 @ 2024-03-16",
@@ -43572,7 +44310,10 @@ var hikingRoutes = [
         114.27031967712794,
         22.38135377287253
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雙潭石澗 @ 2019-07-01 132349",
@@ -43789,7 +44530,10 @@ var hikingRoutes = [
         114.19252226,
         22.25752834
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雙鹿連枕蓋 @ 2016-10",
@@ -43970,7 +44714,10 @@ var hikingRoutes = [
         114.32299585951803,
         22.401564140300543
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雞公嶺 @ 2017-3-4",
@@ -44151,7 +44898,10 @@ var hikingRoutes = [
         114.05243469009673,
         22.457881050550874
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雞公嶺 @ 2025-01-24(1)",
@@ -44260,7 +45010,10 @@ var hikingRoutes = [
         114.10872014310891,
         22.469400380611308
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "雞公嶺 @ 2025-01-24",
@@ -44369,7 +45122,10 @@ var hikingRoutes = [
         114.10872014310891,
         22.469400380611308
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青大石澗",
@@ -44482,7 +45238,10 @@ var hikingRoutes = [
         113.96325254971043,
         22.405567403726142
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青山 @ 2015-12-25",
@@ -44619,7 +45378,10 @@ var hikingRoutes = [
         113.96350379638672,
         22.40655178125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青山腹地 @ 2017-1-28",
@@ -44804,7 +45566,10 @@ var hikingRoutes = [
         113.91719205180829,
         22.401610325890857
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青蛙石 @ 2023-10-21",
@@ -45005,7 +45770,10 @@ var hikingRoutes = [
         114.26964691857157,
         22.38115326459909
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青龍石澗上段 @ 2022-09-24",
@@ -45202,7 +45970,10 @@ var hikingRoutes = [
         113.94025565775358,
         22.279224729856377
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "青龍脊@ 2017-11-11 103245",
@@ -45379,7 +46150,10 @@ var hikingRoutes = [
         113.93958675,
         22.27567209
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "飛鳳石澗 @ 2017-9-16 1000",
@@ -45564,7 +46338,10 @@ var hikingRoutes = [
         114.27394432537814,
         22.408820699184023
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "飛鵝山海鮮 @ 2026-01-15 094313",
@@ -45705,7 +46482,10 @@ var hikingRoutes = [
         114.20813287777354,
         22.34244663634893
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "飛鵝頂@ 2019-09-14 091603",
@@ -45794,7 +46574,10 @@ var hikingRoutes = [
         114.22067702787555,
         22.35324301301121
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "首次自殺崖 @ 2016-07-24 140230",
@@ -45887,7 +46670,10 @@ var hikingRoutes = [
         114.22169303976729,
         22.333945442135576
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "香港仔水塘 @ 2025-10-07",
@@ -45984,7 +46770,10 @@ var hikingRoutes = [
         114.15725787197917,
         22.250036445547288
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬大石澗 @ 2018-06-30 085125",
@@ -46077,7 +46866,10 @@ var hikingRoutes = [
         114.24354676,
         22.40205074
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬尾脊 @ 2026-02-20 101442",
@@ -46238,7 +47030,10 @@ var hikingRoutes = [
         114.23061000798228,
         22.41822713020313
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬灣1868 @ 2025-12-26 164811",
@@ -46335,7 +47130,10 @@ var hikingRoutes = [
         114.06468479638671,
         22.35288178125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬西石澗 @ 2017-8-12 1100",
@@ -46548,7 +47346,10 @@ var hikingRoutes = [
         114.28228151510518,
         22.400738063087683
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬遊塘 @ 2026-04-26",
@@ -46657,7 +47458,10 @@ var hikingRoutes = [
         114.24028766872566,
         22.31595421053683
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬鞍山村至企嶺 @ 2016-2-11",
@@ -46866,7 +47670,10 @@ var hikingRoutes = [
         114.27927279638672,
         22.40487478125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬騮崖南山 @ 2018-11-17 100445(1)",
@@ -47027,7 +47834,10 @@ var hikingRoutes = [
         114.17582297615229,
         22.503267661416643
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "馬騮崖南山 @ 2018-11-17 100445",
@@ -47188,7 +47998,10 @@ var hikingRoutes = [
         114.17582297615229,
         22.503267661416643
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鳳冠南巖 @ 2025-12-12 103458",
@@ -47333,7 +48146,10 @@ var hikingRoutes = [
         113.90291,
         22.255408333333335
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鳳鳥石脊 @ 2026-04-27 094900",
@@ -47466,7 +48282,10 @@ var hikingRoutes = [
         113.90301166666669,
         22.255403333333334
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鴉巢山@ 2026-03-16 095912",
@@ -47631,7 +48450,10 @@ var hikingRoutes = [
         114.16353333333333,
         22.341151666666665
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鴉鷹金孖鐵 @ 2022-01-07 211302(1)",
@@ -47904,7 +48726,10 @@ var hikingRoutes = [
         114.17065881030892,
         22.37625150075253
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鴉鷹金孖鐵 @ 2022-01-07 211302",
@@ -48177,7 +49002,10 @@ var hikingRoutes = [
         114.17065881030892,
         22.37625150075253
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鴨仔小夏威夷 @ 2016-9-13",
@@ -48294,7 +49122,10 @@ var hikingRoutes = [
         114.23770007637741,
         22.334288011266313
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鶴咀 @ 2016-6-4",
@@ -48491,7 +49322,10 @@ var hikingRoutes = [
         114.24348641736991,
         22.221385553463556
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鶴咀山2 @ 2017-12-30 113426",
@@ -48632,7 +49466,10 @@ var hikingRoutes = [
         114.2503566,
         22.22911174
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鷓鴣山",
@@ -48729,7 +49566,10 @@ var hikingRoutes = [
         114.24630340423448,
         22.339389557719628
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹽田梓 @ 2023-11-4(1)",
@@ -48826,7 +49666,10 @@ var hikingRoutes = [
         114.30108588004057,
         22.37737056487356
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹽田梓 @ 2023-11-4(2)",
@@ -48911,7 +49754,10 @@ var hikingRoutes = [
         114.30108588004057,
         22.37737056487356
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹽田梓 @ 2023-11-4",
@@ -49016,7 +49862,10 @@ var hikingRoutes = [
         114.30108588004057,
         22.37737056487356
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹿巢山 @ 2017-10-14 104500",
@@ -49165,7 +50014,10 @@ var hikingRoutes = [
         114.27458678916494,
         22.38287359171317
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹿湖郊遊徑 @ 2016-7-20",
@@ -49282,7 +50134,10 @@ var hikingRoutes = [
         114.32514174873496,
         22.405253981081856
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "鹿赤走廊@ 2022-08-13",
@@ -49419,7 +50274,10 @@ var hikingRoutes = [
         114.36017106795285,
         22.394795558609598
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "麥三 @ 2016-7-9",
@@ -49576,7 +50434,10 @@ var hikingRoutes = [
         114.27647525503001,
         22.405541335538597
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "麻籃笏半島 @ 2018-10-06 125832",
@@ -49709,7 +50570,10 @@ var hikingRoutes = [
         114.26863498,
         22.35772229
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "黃牛石城 @ 2017-1-21 200415",
@@ -49846,7 +50710,10 @@ var hikingRoutes = [
         114.21764898832897,
         22.382448041708194
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "黑角徑 @ 2017-1-14",
@@ -49951,7 +50818,10 @@ var hikingRoutes = [
         114.24562979638672,
         22.24477678125
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "黑角石刻 銀灣山 @ 2026-04-09 094856",
@@ -50124,7 +50994,10 @@ var hikingRoutes = [
         114.23729166666665,
         22.26348666666667
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "龍山@ 2018-12-26 092531",
@@ -50441,7 +51314,10 @@ var hikingRoutes = [
         114.14211886,
         22.49083057
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "龍潭古廟丙崗 @ 2019-10-12 090229",
@@ -50674,7 +51550,10 @@ var hikingRoutes = [
         114.12442716,
         22.49439345
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "龍脊 @ 2016-6-9",
@@ -50847,7 +51726,10 @@ var hikingRoutes = [
         114.24561824181643,
         22.244739549862526
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   },
   {
     "name": "龍蝦灣 @ 2018-04-02 090935",
@@ -51012,6 +51894,9 @@ var hikingRoutes = [
         114.301964,
         22.29171597
       ]
-    ]
+    ],
+    "difficulty": "",
+    "distance": "",
+    "blog_url": ""
   }
 ];
