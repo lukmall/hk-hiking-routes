@@ -35676,7 +35676,7 @@ var hikingRoutes = [
     "blog_url": "https://luk-mall.blogspot.com/2025/11/2025-11-22.html"
   },
   {
-    "name": "西沙 @ 2025-05-5",
+    "name": "西沙閒遊：西沙Go Park．泥涌",
     "coords": [
       [
         114.26259103161873,
@@ -35823,9 +35823,9 @@ var hikingRoutes = [
         22.429816163258426
       ]
     ],
-    "difficulty": "",
-    "distance": "",
-    "blog_url": ""
+    "difficulty": "NA",
+    "distance": "6.2公里",
+    "blog_url": "https://luk-mall.blogspot.com/2025/05/2025-5-5.html"
   },
   {
     "name": "西灣山．浪茄．東壩．西壩",
