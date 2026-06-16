@@ -36143,7 +36143,7 @@ var hikingRoutes = [
         22.397153520092797
       ]
     ],
-    "difficulty": "",
+    "difficulty": "LV3",
     "distance": "16.9公里",
     "blog_url": "https://luk-mall.blogspot.com/2021/03/2016-8-8.html"
   },
